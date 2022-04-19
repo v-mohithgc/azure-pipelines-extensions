@@ -6,6 +6,6 @@
     "vsts-task-lib": "2.2.1",
     "artifact-engine": "1.0.0",
     "@types/node": "^6.0.101",
-    "underscore": "1.12.1"
+    "underscore": "1.13.2"
   }
 }
