@@ -3,7 +3,7 @@
   "main": "download.js",
   "license": "MIT",
   "dependencies": {
-    "vsts-task-lib": "2.2.1",
+    "vsts-task-lib": "2.7.0",
     "artifact-engine": "1.0.0",
     "@types/node": "^6.0.101",
     "underscore": "1.12.1"
