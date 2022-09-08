@@ -31,7 +31,7 @@
 		"eslint-loader": "^2.2.1",
 		"rimraf": "^2.6.1",
 		"source-map-loader": "^0.2.4",
-		"tfx-cli": "^0.7.6",
+		"tfx-cli": "^0.12.0",
 		"ts-loader": "^3.5.0",
 		"tslint": "^5.9.1",
 		"tslint-loader": "^3.5.3",
