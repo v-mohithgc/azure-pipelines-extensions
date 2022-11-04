@@ -44,12 +44,12 @@
 	"dependencies": {
 		"@types/jquery": "^3.2.18",
 		"azure-devops-ui": "^1.154.1",
-		"css-loader": "^3.0.0",
+		"css-loader": "^4.0.0",
 		"grunt": "^1.0.4",
 		"react": "^16.8.6",
 		"react-dom": "^16.8.6",
 		"react-spinner-material": "^1.1.1",
-		"style-loader": "^0.23.1",
+		"style-loader": "^1.1.4",
 		"vss-web-extension-sdk": "^5.127.0"
 	}
 }
