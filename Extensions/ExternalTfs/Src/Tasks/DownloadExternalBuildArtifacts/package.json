@@ -4,6 +4,6 @@
   "dependencies": {
     "artifact-engine": "^1.2.0",
     "azure-devops-node-api": "11.2.0",
-    "azure-pipelines-task-lib": "^3.3.1"
+    "azure-pipelines-task-lib": "^4.7.0"
   }
 }
